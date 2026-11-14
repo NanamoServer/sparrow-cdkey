@@ -1,0 +1,5 @@
+# 管理界面输入和显示时间时使用的时区。
+time-zone: Asia/Shanghai
+
+# 管理列表每页条数，范围为 1 至 16。
+page-size: 16
